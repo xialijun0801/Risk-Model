@@ -1,0 +1,9 @@
+*.swn
+*.swo
+*.swp
+*.o
+*.obj
+
+*.so
+*.tsk
+*.exe
